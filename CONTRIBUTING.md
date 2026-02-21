@@ -1,7 +1,7 @@
 Here’s a complete example of what you can put inside your **`CONTRIBUTING.md`** file. This will meet your assignment requirements and make your repository look professional:
 
 ---
-
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 # Contributing Guidelines
 
 ## 📝 How to Contribute
